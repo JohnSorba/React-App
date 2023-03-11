@@ -12,14 +12,14 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JohnSorba/React-App.git"
+    "url": "git+https://github.com/JohnSorba/Keeper-App-Project.git"
   },
   "author": "Daniel Ndanema",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JohnSorba/React-App/issues"
+    "url": "https://github.com/JohnSorba/Keeper-App-Project/issues"
   },
-  "homepage": "https://github.com/JohnSorba/React-App#readme",
+  "homepage": "https://github.com/JohnSorba/Keeper-App-Project#readme",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -27,7 +27,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "Keeper-App-Project"
   },
   "browserslist": [
     ">0.2%",
