@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //1. Create a new React app.
 //2. Create a App.jsx component.
 //3. Create a Header.jsx component that renders a <header> element
@@ -11,12 +10,3 @@
 //https://l1pp6.csb.app/
 
 //HINT: You will need to study the classes in teh styles.css file to appy styling.
-=======
-import React from "react";
-import ReactDOM from "react-dom/client";
-
-ReactDOM.createRoot(document.getElementById("root")).render(
-  <h1>Hello World!</h1>
-);
-// root.render(<h1>Test</h1>);
->>>>>>> a2b975bd51fa199f9022e3ab0636a6ee307060ed
